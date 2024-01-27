@@ -13,7 +13,7 @@ https://googlechromelabs.github.io/chrome-for-testing/
 #!pip install selenium
 #!pip install webdriver_manager
 
-# mais dicas de utilização do programa
+# mais dicas para a utilização do programa
 
 Utilizando o Tkinter para obter arquivos dentro do computador para analisar e buscar no site de interesse os resultados da pesquisa.
 
@@ -37,7 +37,7 @@ sempre abrir e fechar (destroy) o comando tkinter.
 
 
 
-para criar um executável no seu computador .exe
+## para criar um executável no seu computador .exe
 
 transformar o arquivo para .py
 
