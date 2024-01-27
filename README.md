@@ -46,7 +46,7 @@ ipynb-py-convert Pesquisa_site_2.ipynb Pesquisa_site_2_convertendo.py
 
 
 
-Para não ficar pesado o programa, instale em um ambine virtual e instalei o seguinte programa:
+Para não ficar pesado o programa, instale em um ambiente virtual e instalei o seguinte programa:
 pip install auto-py-to-exe
 
 
